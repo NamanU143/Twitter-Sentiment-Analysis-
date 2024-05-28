@@ -38,5 +38,3 @@ This repository provides a comprehensive guide and code for conducting Explorato
 ## License
 This repository is licensed under the MIT License.
 
-## Contact
-For any questions, suggestions, or issues, feel free to contact the repository maintainer at chris13angelid@gmail.com
